@@ -1,0 +1,21 @@
+# Ignore Visual Studio temporary files, build results, and
+# any other compiled files or directories.
+*.log
+*.tlog
+*.vcxproj.user
+*.vcxproj.filters
+*.VC.db
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# Ignore .NET Files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore JetBrains IDE project files
+.idea/
